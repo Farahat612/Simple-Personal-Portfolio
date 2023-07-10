@@ -1,5 +1,5 @@
 # Simple-Personal-Portfolio
-A simple Personal Portfolio web app using Python, Django and Postgres.
+A simple Personal Portfolio web app using Python, Django, Bootstrap templates and Postgres database.
 
 ## Project Overview
 
